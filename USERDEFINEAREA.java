@@ -27,4 +27,5 @@ public class USERDEFINEAREA {
         System.out.println("Area of the rectangle: " + area);
         System.out.println("Perimeter of the rectangle: " + perimeter);
     }
+
 }
