@@ -17,7 +17,7 @@ public class grade {
             System.out.println("Passed the grade A");
             break;
         default:
-            System.out.println("Marks not match");
+            System.out.println(" Marks not match ");
             break;
     }
     }
